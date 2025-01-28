@@ -24,12 +24,16 @@ Apart from the above, I have a keen interest in ML & DL and how it can be levera
 ## 📊 Projects
 **Project 1: Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit**
 
+**Description:** Developed a Python-based application that automates data scraping from Redbus using Selenium and provides dynamic filtering options using Streamlit.
+
 Link : https://github.com/susmithakalluri050/Redbus-Data-Scraping-with-Selenium-Dynamic-Filtering-using-Streamlit
 
 ![output](https://github.com/user-attachments/assets/5653b321-05ba-4430-afdf-c6b931d082db)
 
 
  **Project 2: Illuminating-Insights-for-Global-Electronics**
+
+**Description:** Built a Power BI dashboard to analyze and visualize trends in the global electronics industry, enabling actionable insights for stakeholders.
 
 Link : https://github.com/susmithakalluri050/Illuminating-Insights-for-Global-Electronics
 
