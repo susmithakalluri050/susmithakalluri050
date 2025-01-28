@@ -3,7 +3,7 @@
 ## Data Analyst | Upskilling in Data Science & Machine Learning 
 
 ## 📌 About me
-I am currently working in data Analysis field and I have a strong & exhaustive skillset in SQL, Python, BI Tools, Advance Excel & Statistics.
+I am currently working in Data Analytics field and I have a strong & exhaustive skillset in SQL, Python, BI Tools, Advance Excel & Statistics.
 
 ## 💼 Skills
 
