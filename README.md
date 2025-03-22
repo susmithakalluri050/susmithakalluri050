@@ -1,6 +1,6 @@
 #  Hi I am Susmitha Kalluri
 
-## Data Analyst | Upskilling in Data Science & Machine Learning 
+## Data Analyst | Business Analyst
 
 ## 📌 About me
 I am currently working in Data Analytics field and I have a strong & exhaustive skillset in SQL, Python, BI Tools, Advance Excel & Statistics.
